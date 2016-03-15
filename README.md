@@ -2,7 +2,7 @@
 
 #### First Webpage: Working with Git and HTML Exercise for Epicodus}, {03.14.2016
 
-#### By _**Erin Goncer Nadiya Yeroshkina**_
+#### By **Erin Goncer Nadiya Yeroshkina**
 
 ## Description
 
@@ -16,7 +16,7 @@ This webpage is the first assignment at Epicodus and lists a few programming lan
 
 ## Support and contact details
 
-_For any questions or comments, please contact Erin Goncer or Nadiya Keroshkina._
+For any questions or comments, please contact Erin Goncer or Nadiya Keroshkina.
 
 ## Technologies Used
 
