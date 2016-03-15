@@ -1,0 +1,31 @@
+body {
+font-family: avenir;
+font-size: 17px;
+width: 500px;
+margin: auto;
+}
+
+h1 {
+  color: red;
+  font-family: didot;
+  font-size: 45px;
+  letter-spacing: 1px;
+  text-align: center;
+}
+
+h2 {
+  font-family: avenir;
+  font-size: 25px;
+  text-transform: uppercase;
+  font-weight:bold;
+  text-align: center;
+}
+
+p {
+  font-family: sans-serif;
+}
+
+ul {
+  font-size: 20px;
+  line-height: 30px;
+}
