@@ -1,29 +1,29 @@
-# _{My First Webpage}_
+# _My First Webpage_
 
-#### _{First Webpage: Working with Git and HTML Exercise for Epicodus}, {03.14.2016}_
+#### First Webpage: Working with Git and HTML Exercise for Epicodus}, {03.14.2016
 
-#### By _**{Erin Goncer Nadiya Yeroshkina}**_
+#### By _**Erin Goncer Nadiya Yeroshkina**_
 
 ## Description
 
-_{This webpage is the first assignment at Epicodus and lists a few programming languges that will be covered within the Web Development course. You are able to click through to Epciodus' website as well as another page refering to a few of my favorite things. }_
+This webpage is the first assignment at Epicodus and lists a few programming languges that will be covered within the Web Development course. You are able to click through to Epciodus' website as well as another page refering to a few of my favorite things.
 
 ## Setup/Installation Requirements
 
-* _Clone this repository._
-* _Open file._
-* _Enjoy._
+* Clone this repository.
+* Open file.
+* Enjoy.
 
 ## Support and contact details
 
-_{For any questions or comments, please contact Erin Goncer or Nadiya Keroshkina.}_
+_For any questions or comments, please contact Erin Goncer or Nadiya Keroshkina._
 
 ## Technologies Used
 
-_{HTML: Added links to separate pages and Epciodus website.}_
+HTML: Added links to separate pages and Epciodus website.
 
 ### License
 
-*{This software is licensed under the MIT license.}*
+*This software is licensed under the MIT license.*
 
-Copyright (c) 2016 **_{Erin Goncer, Nadiya Yeroshkina_**
+Copyright (c) 2016 **Erin Goncer, Nadiya Yeroshkina**
